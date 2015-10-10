@@ -1,0 +1,20 @@
+{
+	"name": "gisele-validation",
+	"description": "An extension to Gisele library that adds field validation",
+	"version": "0.0.0",
+	"main": "src/gisele-validation.js",
+	"author": {
+		"name": "Darlan Alves",
+		"email": "me@darlanalv.es"
+	},
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test"
+	],
+	"dependencies": {
+		"gisele": "^0.x"
+	}
+}
