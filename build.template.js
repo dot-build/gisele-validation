@@ -13,4 +13,4 @@
 
     /* content goes here */
 
-})(this);
+});
