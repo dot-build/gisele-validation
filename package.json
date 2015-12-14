@@ -1,7 +1,7 @@
 {
   "name": "gisele-validation",
   "description": "An extension to Gisele library that adds field validation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/gisele-validation.js",
   "author": {
     "name": "Darlan Alves",
